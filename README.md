@@ -19,14 +19,14 @@ I love sharing knowledge and learning from the GitHub community. I actively cont
 Thank you for visiting my GitHub profile! If you are interested in collaborating or discussing further, feel free to contact me here or through my contacts provided.
 
 # Table of contents
-<!--ts-->
+<!--
    * [Stats](#stats)
    * [Tools](#tools)
    * [Bincang QA](#%EF%B8%8Fbincang-qa)
        
    * [Connect](#connect)
    * [Contact me](#contact-me)
-<!--te-->
+-->
  
 
 ## 📈Stats
@@ -62,7 +62,7 @@ Thank you for visiting my GitHub profile! If you are interested in collaborating
 <p>
     <a href="https://www.linkedin.com/in/erlanggafs" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
      <a href="https://www.instagram.com/erlangga.fs_/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
-    <a href="https://www.youtube.com/channel/UCLsr3AZJbxy9hB4-4y9H0zA" target="blank"><img src="https://img.shields.io/badge/-youtube-181717?style=for-the-badge&logo=youtube" /></a>
+    <a href="https://www.youtube.com/@erlanggafsid/videos" target="blank"><img src="https://img.shields.io/badge/-youtube-181717?style=for-the-badge&logo=youtube" /></a>
 </p>
 
 
