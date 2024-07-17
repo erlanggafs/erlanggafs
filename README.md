@@ -49,7 +49,7 @@ Thank you for visiting my GitHub profile! If you are interested in collaborating
 ![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Flutter](https://img.shields.io/badge/Flutter-100000?style=for-the-badge&logo=flutter&logoColor=white)
  <!--  
 ### Tips & Trick
    * [Portofolio untuk seorang SQA](https://youtu.be/lgp9LIejOOI)
