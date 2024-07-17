@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Erlangga!
-I am Erlangga, an Informatics Engineering student who is passionate about exploring the world of technology and software development. I am interested in various aspects of the IT world, from programming, web application development, to system and application security testing.
+I am an Informatics Engineering student who has a passion for exploring the world of technology and software development. I am interested in various aspects of the IT world, from programming, web application development, to system and application security testing.
 
 I love sharing knowledge and learning from the GitHub community. I actively contribute to open source projects that interest me
 Thank you for visiting my GitHub profile! If you are interested in collaborating or discussing further, feel free to contact me here or through my contacts provided.
@@ -23,9 +23,7 @@ Thank you for visiting my GitHub profile! If you are interested in collaborating
    * [Stats](#stats)
    * [Tools](#tools)
    * [Bincang QA](#%EF%B8%8Fbincang-qa)
-        * [SQA Journey Path](#sqa-journey-path)
-        * [Postman Tutorial](#postman)
-        * [Tips & Trick SQA](#tips--trick)
+       
    * [Connect](#connect)
    * [Contact me](#contact-me)
 <!--te-->
@@ -62,10 +60,9 @@ Thank you for visiting my GitHub profile! If you are interested in collaborating
 
 ## 🔗Connect
 <p>
-    <a href="https://www.linkedin.com/in/wisnuwm" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
-     <a href="https://www.instagram.com/wisnumnw/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
+    <a href="https://www.linkedin.com/in/erlanggafs" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+     <a href="https://www.instagram.com/erlangga.fs_/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
     <a href="https://www.youtube.com/channel/UCLsr3AZJbxy9hB4-4y9H0zA" target="blank"><img src="https://img.shields.io/badge/-youtube-181717?style=for-the-badge&logo=youtube" /></a>
-<a href="https://bincangqa.tech/home/" target="blank"><img src="https://img.shields.io/badge/Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p>
 
 
