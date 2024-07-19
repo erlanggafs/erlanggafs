@@ -38,6 +38,7 @@ Thank you for visiting my GitHub profile! If you are interested in collaborating
 </p>
 
 ## 🔨Tools
+![Katalon](https://img.shields.io/badge/-katalon-181717?style=for-the-badge&logo=katalon)
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
