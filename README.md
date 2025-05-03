@@ -38,6 +38,10 @@ Thank you for visiting my GitHub profile! If you are interested in collaborating
 </p>
 
 ## 🔨Tools
+![Flutter](https://img.shields.io/badge/Flutter-100000?style=for-the-badge&logo=flutter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
+![Azure](https://img.shields.io/badge/-azure-181717?style=for-the-badge&logo=azure)
 ![Katalon](https://img.shields.io/badge/-katalon-181717?style=for-the-badge&logo=katalon)
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
@@ -45,12 +49,8 @@ Thank you for visiting my GitHub profile! If you are interested in collaborating
 ![Cucumber](https://img.shields.io/badge/-sourcetree-181717?style=for-the-badge&logo=sourcetree)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
 ![Karate Framework](https://img.shields.io/badge/-karate-181717?style=for-the-badge&logo=karate)
-![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
-![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
-![Jira](https://img.shields.io/badge/-azure-181717?style=for-the-badge&logo=azure)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-100000?style=for-the-badge&logo=flutter&logoColor=white)
+![Serenity BDD](https://img.shields.io/badge/-android-181717?style=for-the-badge&logo=android)
+
  <!--  
 ### Tips & Trick
    * [Portofolio untuk seorang SQA](https://youtu.be/lgp9LIejOOI)
